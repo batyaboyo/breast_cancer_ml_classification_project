@@ -53,6 +53,7 @@ Dataset source: [Kaggle - Breast Cancer Wisconsin Data](https://www.kaggle.com/d
 ## Project Structure
 - `breast_cancer_classification.ipynb`: Main Jupyter Notebook with all code and explanations
 - `README.md`: Project documentation
+- `requirements.txt`: Project requirements
 
 ## Evaluation Metrics
 The project includes detailed explanations of:
